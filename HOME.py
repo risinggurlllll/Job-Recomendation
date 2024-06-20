@@ -23,7 +23,7 @@ add_logo()
 sidebar()
 
 
-st.markdown("<h1 style='text-align: center; font-family: Verdana, sans-serif; padding: 20px; border: 2px solid #758283; border-radius: 5px;'>Welcome to Talent Hive !</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; font-family: Verdana, sans-serif; padding: 20px; border: 2px solid #758283; border-radius: 5px;'>Welcome to BUDDY !</h1>", unsafe_allow_html=True)
 
 st.markdown("<div style='background-color: rgba(255, 0, 0, 0); padding: 10px;'>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; font-family: Verdana, sans-serif; padding: 20px;'>WHAT WE OFFER : </h2>", unsafe_allow_html=True)
@@ -31,9 +31,9 @@ st.markdown("<h2 style='text-align: center; font-family: Verdana, sans-serif; pa
 s1,s2, s3 = st.columns(3)
 with s1:
 
-    candidate = st.button("Job Recomendation")
+    candidate = st.button("BootCamps")
     if candidate:
-        switch_page("i am a candidate")
+        switch_page("Bootcamp")
     st.balloons()
 
 with s2:
@@ -43,9 +43,9 @@ with s2:
         st.balloons()
 
 with s3:
-        recruiter = st.button("Candidate Recomendation")
+        recruiter = st.button("Mentors")
         if recruiter:
-            switch_page("i am a recruiter")
+            switch_page("🧑🏻\u200d🏫🧑🏻\u200d🏫mentors")
         st.balloons()
 
 
@@ -55,12 +55,12 @@ st.markdown("</div>", unsafe_allow_html=True)
 st_lottie(url)
 
 # Project Description Section
-st.markdown("<h2 style='text-align: center; font-family: Verdana, sans-serif; padding: 20px;'>Why Talent Hive ?</h2>", unsafe_allow_html=True)
-st.write("<p style='font-size:20px;'>Job seekers and recruiters struggle to find the right match for open job positions, leading to a time-consuming and inefficient recruitment process. TalentHive offers a solution to this problem with its advanced technologies that provide personalized job and candidate recommendations based on qualifications and experience.</p>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; font-family: Verdana, sans-serif; padding: 20px;'>Why BUDDY ?</h2>", unsafe_allow_html=True)
+st.write("<p style='font-size:20px;'>Buddy simplifies career growth. We bring candidates, and mentors together in one platform. Access personalized mentorship. Buddy empowers you to take control of your career journey and unlock your full potential.</p>", unsafe_allow_html=True)
 
 st.markdown("<h2 style='text-align: center; font-family: Verdana, sans-serif; padding: 20px;'>AIM</h2>", unsafe_allow_html=True)
-st.write("<p style='font-size:20px;'>The job search process can be daunting and time-consuming for both job seekers and recruiters. That's where this app comes in!", unsafe_allow_html=True)
-st.write("<p style='font-size:20px;'>This app is designed to assist applicants in searching for potential jobs and to help recruiters find talented candidates. The app offers a user-friendly interface that allows applicants to easily browse and search for job opportunities based on their preferences and qualifications. Users can create a profile, upload their resumes, and set up job alerts to receive notifications about new job postings that match their criteria. The app also provides helpful tips and resources for applicants, such as Resume Analyzer and tips to make your Resume even better !! ", unsafe_allow_html=True)
+st.write("<p style='font-size:20px;'>At Buddy, our vision is clear: to transform the landscape of career development. We are committed to providing an all-encompassing platform that connects candidates with the personalized mentorship and guidance for their career aspirations.By seamlessly bridging the gap between candidates, and mentors, we aspire to cultivate a supportive ecosystem where individuals can flourish and achieve their professional aspirations. Our mission is to empower individuals to make informed career decisions, discover meaningful opportunities, and ultimately realize their full potential", unsafe_allow_html=True)
+st.write("<p style='font-size:20px;'>What sets us apart is our extensive use of cutting-edge AI technology, which enables us to deliver AI-based suggestions for the perfect resume, and our advanced algorithms, which ensure that every interaction is tailored to meet the unique needs of our users.With Buddy, the future of career development shines bright. Join us on this exciting journey as we pave the way for a new era in professional growth and success!", unsafe_allow_html=True)
 
 # Set footer config
 
@@ -75,4 +75,4 @@ footer_container = st.container()
 # Add content to the footer container
 with footer_container:
 
-    st.write("Github @ <a href='https://github.com/Ryzxxl/Job-Recomendation'>Repository</a>", unsafe_allow_html=True)
+    st.write(" ", unsafe_allow_html=True)

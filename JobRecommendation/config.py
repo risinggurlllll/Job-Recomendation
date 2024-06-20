@@ -23,7 +23,7 @@ from dataclasses import dataclass
 import os
 
 class EnvironmentVariable:
-    mongo_db_url:str = os.getenv("MONGO_DB_URL")
+    mongo_db_url:str = os.getenv("MONGO_DB_URL","mongodb://localhost:27017")
 
 env_var = EnvironmentVariable()
 client = pymongo.MongoClient(env_var.mongo_db_url)

@@ -1,0 +1,108 @@
+Shubhi Shrotriya
+
+shubhishrotriya09@gmail.com
+em22mtech14003@iith.ac.in
+9068998298
+
+Academic Details
+Year
+
+Degree
+
+Institute
+
+CGPA/Marks(%)
+
+2024
+
+M.Tech Techno-Entrepreneurship
+
+IIT Hyderabad
+
+9.04
+
+2021 B.Tech Electronics & Communication Engineering
+
+ZHCET,AMU
+
+8.21
+
+2017
+
+XII (AMU)
+
+SSSG,AMU
+
+87.6%
+
+2014
+
+X (CBSE)
+
+OLF
+
+89.3%
+
+Positions of Responsibility
+LinkedIn Page Manager: Curated engaging and informative departmental posts and blogs.
+Team Lead: Led team to participate and secure second runner up in National Event Createch'2020 organized by
+Lnt company.
+Team Lead: Led a 12-student team in ideating, designing, and fabricating a hybrid tri-cycle for National Event
+Efficycle organized by SAE-NIS, eventually winning the 'Futuristic Efficycle Award'2018.
+Thesis
+Stage 1- Conducting market research, business hypothesis, product research, and financial modeling for an "AIdriven platform specializing in job-specific mock interviews and resume fitness scores."
+
+(2022-23)
+(2020-21)
+(2018-19)
+
+(Aug'23Ongoing)
+
+Skills
+Technical Skills: Python, SQL, Excel, Tableau, User Experience (UX) & Prototyping using Figma, Product Development
+Lifecycle Assesment, A/B Testing & Experimentation
+Managerial Skills: Market Research, Strategic thinking, Critical Analysis, Problem-solving and decision-making
+Relevant Courses
+Programming & Mathematical Courses: Video Content Analysis, Fraud Analytics Using Predictive and Social Network
+Techniques, Data Structures & Algorithms, Linear Algebra, Probability, Statistics, Calculus
+Entrepreneurship and Management Courses: Strategic Management, Operational Entrepreneurship, Finance and
+Accounting, Introduction to Marketing, Innovation Management, Ecoonomics for Technocrats, Game Theory for Startups,
+Marketing for New Ventures
+Projects
+Implemented a data-driven tool for financial news analysis, leveraging NLP embeddings and LLMs for
+(Jul'23information retrieval and insights using Langchain
+Aug'23)
+Cricket Data Analytics Project Using Web Scraping, Python, Pandas and Power BI
+(Jun'23-Jul'23)
+Conducted Industrial and Environmental analysis for Indian Semiconductor Industry
+(Feb'23- March'23)
+Implemented circular trade detection, Trust Rank using Pregel Framework, spectral clustering, and cost(Jan'23sensitive logistic regression for a given dataset
+Apr'23)
+Conducted a Literature Review of "Deep Reinforcement Learning for Solving AGV Routing Problem" paper (Jan'23- April'23)
+Literature Review on Deepfakes and Generative Adversarial Networks: Focused on "Neural Emotion Director:
+(Aug'22Speech-preserving semantic control of facial expressions in 'in-the-wild' videos," published in CVPR'2022
+Dec'22)
+Extracurricular
+Collaborated in a joint pitch event competition, LEAD PITCH, with Japanese students to develop a scalable business (2023)
+plan presentation for a technical concept.
+One of the finalist for ProdX'23, a product management case study organized by FCC, IITH
+(2023)
+Volunteered for THE FOOD CONCLAVE-2023' event hosted by the Government of Telangana
+(2023)
+Summer Internship
+Founder's Office Intern at Dao Studio:
+Align technical vision with business objectives in a blockchain-based AI startup, translating high-level concepts
+into actionable engineering tasks and enhancing technical documentation.
+Shape AI strategy via market analysis, user requirement definition, and precise technical documentation for
+product development.
+Research Internship at IIT Hyderabad: Under the guidance of Dr. Nakul Parmeswar,
+Explored Indian micromobility's challenges, opportunities, key players, and relevance in evolving mobility.
+Developed a comprehensive case study and instructional note for YULU startup, involving rigorous market
+research, precise data collection, and strategic formulation, currently in discussions with YULU for collaborative
+publication of the strategic case study.
+
+(Aug'23Oct'23)
+
+(May'23Jul'23)
+
+

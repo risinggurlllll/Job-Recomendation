@@ -3,7 +3,8 @@ import pandas as pd
 import requests
 import pdfplumber
 
-invoice_pdf = 'rakshit_khajuria_resume.pdf'
+invoice_pdf =r"E:\work\Job-Recomendation\notebook\shubhi_shrotriya_resume_Deloitte.pdf"
+
 
 with pdfplumber.open(invoice_pdf) as pdf:
      text=""
